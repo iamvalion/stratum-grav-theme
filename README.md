@@ -21,11 +21,11 @@ $ git clone https://github.com/iamvalion/stratum-grav-theme.git stratum
 
 ## Screenshots
 
-Light Mode (Landing):
+Light Mode:
 
 <img src="https://github.com/iamvalion/stratum-grav-theme/blob/main/images/Screenshots_Light_3240x1440.jpg" alt="Light mode screenshots">
 
-Dark Mode (Landing):
+Dark Mode:
 
 <img src="https://github.com/iamvalion/stratum-grav-theme/blob/main/images/Screenshots_Dark_3240x1440.jpg" alt="Dark mode screenshots">
 
